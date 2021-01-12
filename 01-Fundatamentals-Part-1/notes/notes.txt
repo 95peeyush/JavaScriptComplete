@@ -40,3 +40,9 @@ Let,var and const
     2.const are the one which can't be changes or left undefined
     3.var is similar to let but let is block scoped and var is function scoped.
 
+Operators
+    1.Math Operators(+,_,*,/,%,**(power))
+    2.Comparison Operators(>,<,>=,<=,==,===)
+    3.Assignment Operators(=)
+    4.typeof Operator
+
