@@ -36,4 +36,7 @@ Note-> JS is dynamically typed language that means we don't specify the type of 
 In other words it's value that has type not the variable.
 
 Let,var and const
+    1.let and const are part of modern js(es2015)
+    2.const are the one which can't be changes or left undefined
+    3.var is similar to let but let is block scoped and var is function scoped.
 
