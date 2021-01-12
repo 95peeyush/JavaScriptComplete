@@ -1,0 +1,39 @@
+What is JS?
+    1.JS is High level,Object Oriented,Multi paradigm programming language.
+    2.Programming Language means anything that can give instruction to computer to perform certain task.
+    3.High Level means we don't have to worry about complex stuff like memory management.
+    4.Object Oriented means based on objects.
+
+What it does?
+    1.Js add dynamic functionality to the website.
+
+History
+    1.ES5 then came ES6(ES2015) with biggest changes to language ever.
+    2.Then after that every year a new version of JS is being launched with some new feature.
+    3.JS from 2015 onwards is also called Modern JS.
+
+Variables and Values
+    1.Values are most fundamentals unit of information in programming language.
+    2.We can store them in Variables to re-ues them.
+    3.Not allowed to use reserved keywords as Variables name.
+    4.One exception here (3rd point) name is a reserved keywords but still we can use that as a Variables name so it is recommended to not to use that.
+    5.Can't redeclare a variable.
+    6.constants are named in all capital.
+    7.Every Value in JS is either a object or primitive type value.
+
+Note->For writing errors to console we don't need console.log() it will get print directly.  
+
+Data Types
+    1.Number let age=23
+    2.String let firstName="Peeyush"
+    3.undefined let children;
+    4.null similar to undefined
+    5.boolean let isAble =true;(only true / false);
+    6.symbols(unique that doesn't get changed)
+    7.bigInt(introducted inm ES2020)
+
+Note-> JS is dynamically typed language that means we don't specify the type of value it holds rather it is decided automatically depending on the value.
+In other words it's value that has type not the variable.
+
+Let,var and const
+

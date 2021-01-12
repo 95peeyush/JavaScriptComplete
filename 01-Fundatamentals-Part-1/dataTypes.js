@@ -17,3 +17,5 @@ console.log(typeof lastName); //undefined
 
 //bug in JS but it has not be corrected due to legacy reasons
 console.log(typeof null); //object
+
+
