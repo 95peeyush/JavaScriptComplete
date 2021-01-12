@@ -8,3 +8,4 @@ console.log(myCountryPopulation < 6)//finland(6 million) has more population or 
 
 let description = "Portugal is in Europe, and its 11 million people speak portuguese";
 console.log(description);
+
