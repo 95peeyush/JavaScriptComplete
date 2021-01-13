@@ -46,3 +46,6 @@ Operators
     3.Assignment Operators(=)
     4.typeof Operator
 
+String and Template Literals
+    1.From ES6 onwards we have template Literals to manage the complex strings formation.
+

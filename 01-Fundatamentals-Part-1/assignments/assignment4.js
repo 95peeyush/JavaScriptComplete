@@ -1,3 +1,5 @@
+//assignment 3 got covered in 4
+
 let myCountryPopulation = 100;
 console.log(myCountryPopulation / 2); //if country divided into 2 parts
 
