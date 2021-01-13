@@ -49,3 +49,19 @@ Operators
 String and Template Literals
     1.From ES6 onwards we have template Literals to manage the complex strings formation.
 
+Type Conversion and Coercion 
+    1.Type conversion is when we manually convert one type of value to another.
+    2.We can convert number,strings,boolean only.
+    3.Type Coercion is automatic conversion of types of value.
+    4.Template Literals is an example of automatic conversion.
+    5.when we use ('+') to add number and string then number gets converted to string.
+   Type Conversion
+    1.'+' converts the numbers to string when we have one or more number and atleast one string
+    2.'-,*,/' converts string to number. when we have one of more string and atleast one number
+
+Truthy and Falsy Values
+    1.Truthy values are the one which will become true when converted to boolean.
+    2.Falsy values are the one which will become false when converted to boolean.
+    3.There are 5 Falsy Values - > null,undefined,0,'',NaN
+    4.Rest all are true.
+
