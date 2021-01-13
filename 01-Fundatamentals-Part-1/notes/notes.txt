@@ -65,3 +65,8 @@ Truthy and Falsy Values
     3.There are 5 Falsy Values - > null,undefined,0,'',NaN
     4.Rest all are true.
 
+Equality Operators 
+    1.Two types of Equality (== & ===) loose Equality and strict Equality.
+    2.Loose(==) Equality perform type Coercion and hence doesn't check for type of value.
+    3.Strict(===) Equality doesn't perform type Coercion and hence check for type of value also.    
+
