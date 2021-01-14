@@ -68,5 +68,12 @@ Truthy and Falsy Values
 Equality Operators 
     1.Two types of Equality (== & ===) loose Equality and strict Equality.
     2.Loose(==) Equality perform type Coercion and hence doesn't check for type of value.
-    3.Strict(===) Equality doesn't perform type Coercion and hence check for type of value also.    
+    3.Strict(===) Equality doesn't perform type Coercion and hence check for type of value also.
+
+Switch case
+    1.Alternative of if-else statement.
+    2.strict checking is done.
+    3.one case can have multiple statement without needing the {} block.
+    4.need to use break after every case otherwise all the line with be executed after that line.
+    
 
