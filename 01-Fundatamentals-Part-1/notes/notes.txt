@@ -75,5 +75,9 @@ Switch case
     2.strict checking is done.
     3.one case can have multiple statement without needing the {} block.
     4.need to use break after every case otherwise all the line with be executed after that line.
-    
+
+Strict mode
+    1.enabling strict mode helps us prevents bugs in the code.
+    2.it also hold the list of words that might become reserve in future.
+        
 
