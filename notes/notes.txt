@@ -86,3 +86,8 @@ Function
     3.if can accept the data and can return the data also.
     4.Function declaration and function expression are two different ways of defining the function in JS.
 
+Arrays
+    1.Can store different data also.
+    2.we can insert the expression also as it will be calculated first and then it will be inserted.
+    3.two ways to create array using ([] and new Array());
+
