@@ -79,5 +79,10 @@ Switch case
 Strict mode
     1.enabling strict mode helps us prevents bugs in the code.
     2.it also hold the list of words that might become reserve in future.
-        
+
+Function
+    1.Most fundamental unit of JS.
+    2.Re-use the code many times.
+    3.if can accept the data and can return the data also.
+    4.Function declaration and function expression are two different ways of defining the function in JS.
 
