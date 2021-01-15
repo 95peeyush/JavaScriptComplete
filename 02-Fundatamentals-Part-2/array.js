@@ -18,4 +18,8 @@ const array = [12, 'peeyush', 23 - 11, ages];
 
 console.log(array);
 
+//we can array inside array
+const checkArray = [1, 2, 3, [4, 5, 6, 7]];
+console.log(checkArray);
+console.log(checkArray[3][1]);
 

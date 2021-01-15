@@ -98,3 +98,5 @@ Objects
 Dot vs Bracket Notation
     1.Major Difference is we can pass the expression in the Bracket notation but can't pass that in dot notation.
 
+Note-> Arrays are also object but some special type of objects.
+
