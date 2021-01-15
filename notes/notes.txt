@@ -95,4 +95,6 @@ Objects
     1.In objects we can define the property with key-value pair.
     2.So it becomes easy to access them as compare to array(in JS) are we need to remember the order in which elements are inserted.
 
+Dot vs Bracket Notation
+    1.Major Difference is we can pass the expression in the Bracket notation but can't pass that in dot notation.
 
