@@ -91,3 +91,8 @@ Arrays
     2.we can insert the expression also as it will be calculated first and then it will be inserted.
     3.two ways to create array using ([] and new Array());
 
+Objects
+    1.In objects we can define the property with key-value pair.
+    2.So it becomes easy to access them as compare to array(in JS) are we need to remember the order in which elements are inserted.
+
+
