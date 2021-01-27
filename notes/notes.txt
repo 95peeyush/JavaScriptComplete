@@ -100,3 +100,9 @@ Dot vs Bracket Notation
 
 Note-> Arrays are also object but some special type of objects.
 
+HTML & CSS
+    1.In Html we have div which are more of generic boxes whereas form is also.
+    2.form is similar to div but it have meaning so it look semantic and helpful in SEO.
+    3.attributes describes the html elements. like href is a attribute of anchor tag
+    4.we have classes and id these are also attribute but the Difference is id should be unique.
+        i.e. many elements can have one class but id can't be repeated.
