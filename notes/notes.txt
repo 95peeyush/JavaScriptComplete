@@ -106,3 +106,10 @@ HTML & CSS
     3.attributes describes the html elements. like href is a attribute of anchor tag
     4.we have classes and id these are also attribute but the Difference is id should be unique.
         i.e. many elements can have one class but id can't be repeated.
+    5.We have block and iniline elements block are the one that start from new line
+    6.Inline are the elements that start from the line of previous elements
+    7.We can specify the attribute in the seperate stylesheet and link it to html page using link attribute.
+    8.we can select the elements by tags,className , id
+        i.e. body{}, .className {}, #idName{}
+    9.Some attributes are inherited to the child also.
+        like font-family.        
