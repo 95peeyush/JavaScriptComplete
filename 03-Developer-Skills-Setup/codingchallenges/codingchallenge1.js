@@ -1,7 +1,7 @@
 let printForecast = function (temps) {
   let outputString = "";
   for (let i = 0; i < temps.length; i++) {
-    outputString += `... ${temps[i]}°C in ${i + 1}days`;
+    outputString = outputString.concat(`... ${temps[i]}°C in ${i + 1}days`);
   }
   console.log(outputString + `...`);
 };
